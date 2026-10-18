@@ -1,3 +1,0 @@
-NikoROM is a custom ROM based on CyanogenMod 11 that can actually be compiled using modern toolchains and stuff!
-
-I'm not really sure what to put here, though...
